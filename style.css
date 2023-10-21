@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+.title{
+    color: white;
+    min-height: 350px;
+    background-color: rgb(38, 38, 212);
+}
+.title .btn{
+    color: rgb(38, 38, 212);
+}
+.title .btn:hover{
+    background-color: rgb(178, 178, 178);
+}
+.title .btn2:hover{
+    color: rgb(38, 38, 212);
+    background-color: rgb(12, 0, 143);
+}
+
+.profile{
+    width: 50%;
+    border-radius: 50%;
+}
+.min-head{
+    color: rgb(38, 38, 212);
+}
+.about-image img{
+    width: 100%;
+}
+.title .btn{
+    color: rgb(38, 38, 212);
+}
+.row .btn:hover{
+    background-color: rgb(178, 178, 178);
+}
+.row .btn2{
+    background-color: rgb(38, 38, 212);
+}
+.row .btn2:hover{
+    color: rgb(38, 38, 212);
+    background-color: rgb(12, 0, 143);
+}

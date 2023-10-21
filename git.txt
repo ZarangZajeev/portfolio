@@ -1,0 +1,5 @@
+*git clone > remote rep to local workspace exact copy
+*git push  > local workspace to remote repo updates
+*git pull  > remote repo to local workspace updates
+*git add -A > Adding all changes in local workspace to staging area
+*git commit -m "YOur massege" > Adding staged file to local repository
